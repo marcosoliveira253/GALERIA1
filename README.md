@@ -6,7 +6,7 @@ Este é um projeto simples que mostra algumas das minhas habilidades em desenvol
 
 Para executar o projeto, você precisa ter um navegador web moderno instalado no seu computador. Você pode baixar o código fonte do projeto a partir do meu repositório no GitHub:
 
-`git clone https://github.com/marcosoliveira253/GALERIA1/tree/master
+`git clone https://github.com/marcosoliveira253/SKILLS/tree/master
 
 Depois de clonar o repositório, você pode abrir o arquivo index.html no seu navegador e ver o resultado.
 
