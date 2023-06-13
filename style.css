@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    background-color: beige;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    flex-basis: 15%;
+    margin: 10px;
+    padding: 20px;
+    transition: transform 0.3s;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow:  0px 5px 10px 5px rgba(0, 0, 0, 0.45);
+}
+
+.card:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.card img{
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 15px 13px;
+}
+
+.card h3{
+    font-size: 1rem;
+    margin-bottom: 1rem
+}
+
+.card p{
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+
+@media (max-width:800px) {
+    .card{
+        flex-basis: 20%; /*Controla a largura e altura de um item, dependendo da direção do flex container. Pode alterar o valor para uma unidade de medida fixa, como px ou em, ou para uma porcentagem do tamanho do flex container.*/
+        font-size: .8rem;
+        padding: 10px;
+        margin: 10px;
+        border-width: .5px;
+    }
+}
+
+@media (max-width:500px) {
+    .card{
+        flex-basis: 40%;
+        font-size: .6rem;
+        padding: 5px;
+        border-width: .25px;
+    }
+}
