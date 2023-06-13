@@ -23,3 +23,7 @@ Este projeto está licenciado sob a licença MIT. Você pode ver os detalhes da 
 ## Contato
 
 Se você tiver alguma dúvida, sugestão ou feedback sobre o projeto, você pode entrar em contato comigo pelo meu e-mail: marcosoliveira.dev@aol.com
+
+## Imagens
+![imagem no dispositivo móvel p]()
+![imagem no laptop](url da imagem)
