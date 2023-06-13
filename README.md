@@ -25,5 +25,11 @@ Este projeto está licenciado sob a licença MIT. Você pode ver os detalhes da 
 Se você tiver alguma dúvida, sugestão ou feedback sobre o projeto, você pode entrar em contato comigo pelo meu e-mail: marcosoliveira.dev@aol.com
 
 ## Imagens
-![imagem no dispositivo móvel p]()
-![imagem no laptop](url da imagem)
+<h1>Imagem tela laptop.</h1>
+
+![imagem no laptop](https://github.com/marcosoliveira253/GALERIA1/blob/master/img/leptop.png)
+
+<h1>Imagem tela Dispositivel Móvel P.</h1>
+
+![imagem no dispositivo móvel p](https://github.com/marcosoliveira253/GALERIA1/blob/master/img/Dispositivel%20m%C3%B3vel%20p.png)
+
